@@ -11,11 +11,11 @@
 | Проект | Задача и инженерная работа | Что посмотреть |
 |---|---|---|
 | **[NegativeVoltageModule](https://github.com/TzarRusi/NegativeVoltageModule)** | Четырёхканальная плата отрицательного питания на LT3090. Схемотехника, разводка, BOM, конструктив. | Схемы, 3D-вид PCB, исходники KiCad и SolidWorks |
-| **[Dawn Clock / RGBprojects](https://github.com/TzarRusi/RGBprojects)** | Световой будильник на ESP32: плавный рассвет, LCD, энкодер, NTP и веб-обновление. Развитие идеи AlexGyver для ESP32. | Архитектура, распиновка и прошивка |
+| **[Dawn Clock / RGBprojects](https://github.com/TzarRusi/RGBprojects)** | Световой будильник на ESP32: плавный рассвет, LCD, энкодер, NTP и веб-обновление. Собран, аппаратно проверен и использовался не менее года. | Архитектура, распиновка и прошивка |
 | **[RGBWifiButton](https://github.com/TzarRusi/RGBWifiButton)** | Управление RGB-светом через Wi-Fi, веб-палитру, кнопку и ИК-пульт. | Интерфейсы, PWM и исходный код |
 | **[PIC16_test.X](https://github.com/TzarRusi/PIC16_test.X)** | Тестовая прошивка PIC16F628A для проверки UART и цифровых выходов. | C-код, MPLAB X проект и сценарий проверки |
 
-Дополнительно: [STM32 / CMSIS / WS2812](https://github.com/TzarRusi/STMF0ws2812NoHAL) — эксперимент с таймером и DMA на уровне регистров; текущая версия требует доработки.
+Дополнительно: [STM32 / CMSIS / WS2812](https://github.com/TzarRusi/STMF0ws2812NoHAL) — эксперимент с таймером и DMA на уровне регистров.
 
 ## Инженерный опыт
 
