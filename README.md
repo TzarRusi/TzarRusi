@@ -11,6 +11,7 @@
 | Проект | Задача и инженерная работа | Что посмотреть |
 |---|---|---|
 | **[NegativeVoltageModule](https://github.com/TzarRusi/NegativeVoltageModule)** | Четырёхканальная плата отрицательного питания на LT3090. Схемотехника, разводка, BOM, конструктив. | Схемы, 3D-вид PCB, исходники KiCad и SolidWorks |
+| **[LIN Control](https://github.com/TzarRusi/Lin-Control)** | Рабочий прототип двусторонней связи ПК с автомобильным LIN-устройством на STM32F103C8 и TJA1021. Передача master frames, чтение статусов и безопасное управление питанием стенда. | Схема подключения, прошивка, PowerShell-консоль, протокол и подтверждённые кадры |
 | **[Dawn Clock / RGBprojects](https://github.com/TzarRusi/RGBprojects)** | Световой будильник на ESP32: плавный рассвет, LCD, энкодер, NTP и веб-обновление. Собран, аппаратно проверен и использовался не менее года. | Архитектура, распиновка и прошивка |
 | **[RGBWifiButton](https://github.com/TzarRusi/RGBWifiButton)** | Управление RGB-светом через Wi-Fi, веб-палитру, кнопку и ИК-пульт. | Интерфейсы, PWM и исходный код |
 | **[PIC16_test.X](https://github.com/TzarRusi/PIC16_test.X)** | Тестовая прошивка PIC16F628A для проверки UART и цифровых выходов. | C-код, MPLAB X проект и сценарий проверки |
